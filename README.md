@@ -7,43 +7,41 @@
 - "be fierce on what the outcome is of projects"
 
 ## Languages
-Python is well and truly estabilished language (in the same way javascript is)
+Python is a well and truly estabilished language (in the same way javascript is)
 _note_: don't bother looking into Django, I missed the boat
-in regards to technologies and languages: "these things go in cycles"
-
-- if you're planning on taking a job, think about how you would present it on a CV before you even take it.
-
-> use recruiters for jobs
+> "these things go in cycles"
+- "if you're planning on taking a job, think about how you would present it on a CV before you even take it."
+- use recruiters for jobs
 
 - "I get a lot of the freelance work I get from people I know"
 - "A lot of my work is around consulting people I know"
-- "As someone trying to get someone done at AESOP, I don't go to freelancer.com or something, I go to recruiters and tell them what skills it is I need."
-- "have a chat to a bunch of recruiters"
+- "As someone trying to get something done at AESOP, I don't go to freelancer.com or something, I go to recruiters and tell them what skills it is I need."
+> "have a chat to a bunch of recruiters"
 
-- TORII recruitment (company I use) (web-based)
+## Recruiters
+There are a bunch of specialist recruiters that will be within any given industry
+Potentially reaching out to the big consultancies (more generally software).
+Massive employers also have intake programs (i.e. graduate programs).
+### Web-based
+- TORII recruitment (company Andrew uses) (web-based)
 - S2M (south-yarra)
 - OPUS
-- HAYES (they're very much volume though, they're hard to cut through)
-
-
-There are a bunch of specialist recruiters that will be within any given industry
-
-Potentially reaching out to the big consultancies (more generally software)
+- HAYES (Very high volume though, they're hard to cut through)
+### Software-based
 - accenture
 - deloitte
 - pwc
+### Huge employers
+- Google
+- REA Group (realestate.com.au, carsales.com, etc.)
+- Envato
+- Xero
 
-big melbourne technology employers
-- google
-- rea (realestate.com.au group)
-- envato
-- xero
-
-(massive employers also have intake programs, e.g. graduate programs)
-
+## Minimum requirements
 There's always ways around things like needed bachelors for graduate programs
-
-when searching for junior devs:
+acknowledge you don't have a required qualification if you haven't got it, even in your cover letter.
+### Employers searching for junior devs
+who
 - looking for a reasonably smart brain that can be trained to do what you need them to do
 - after someone who you can tell "I want you to write some python that does this" and have them not freak out on you.
 - if you can demonstate aptitude seperately than a degree thar's the way you can potentially get involved in those programs
@@ -52,12 +50,9 @@ when searching for junior devs:
 
 bachelors courses don't lead to a good understand of how to use implementation
 
-------
-
 typically you need 4-5 developers of varying skill levels to support junior developers of a team
 "until you reach that critical mass"
 
-acknowledge you don't have a required qualification if you haven't got it, even in your cover letter.
 
 e.g. "I don't currently have [x], however I have done [x] and here's my github, yadda yadda"
 
@@ -111,7 +106,6 @@ WHERE TO GET STARTED WITH TESTING:
 makes you think about what you're doing before you commit code to your codebase
 
 "before you write code to solve a problem, you write a test to articulate the problem"
-
 
 [!!!] "One of the big things with all software is to try and make the deterministic"
 <EXAMPLE>
