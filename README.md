@@ -7,26 +7,51 @@
 - "be fierce on what the outcome is of projects"
 
 ## Languages
-Python is a well and truly estabilished language (in the same way javascript is)
-_note_: don't bother looking into Django, I missed the boat
-> "these things go in cycles"
-- "if you're planning on taking a job, think about how you would present it on a CV before you even take it."
-- use recruiters for jobs
+### Python
+... is a well and truly estabilished language (in the same way javascript is) (_note_: don't bother looking into Django, I missed the boat)
 
-- "I get a lot of the freelance work I get from people I know"
-- "A lot of my work is around consulting people I know"
-- "As someone trying to get something done at AESOP, I don't go to freelancer.com or something, I go to recruiters and tell them what skills it is I need."
+> these things go in cycles
+
+> if you're planning on taking a job, think about how you would present it on a CV before you even take it.
+
+## Finding work
+### Recruiters
+... use them to find jobs
+
+> A lot of the freelance work I get is from people I know
+ 
+> A lot of my work is around consulting people I know
+
+> There are a bunch of specialist recruiters that will be within any given industry
+
+#### Specialist recruiters
+| Recruiter | Specialisation | Notes |
+| ---       | ---            | ---   |
+| TORII recruitment | Web-based | Company Andrew uses often
+| S2M | Web-based | Located in South Yarra |
+| OPUS | Web-based | - |
+| HAYES | Web-based | Very high volume, _'hard to cut through'_ |
+
+### Freelancer.com and alternatives
+... Andrew doesn't bother using for finding staff
+
+> "As someone trying to get something done at AESOP, I don't go to freelancer.com or something, I go to recruiters and tell them what skills it is I need."_
+  
 > "have a chat to a bunch of recruiters"
 
 ## Recruiters
-There are a bunch of specialist recruiters that will be within any given industry
-Potentially reaching out to the big consultancies (more generally software).
-Massive employers also have intake programs (i.e. graduate programs).
-### Web-based
+
+## [???]
+> Potentially reaching out to the big consultancies (more generally software)
+
+> Massive employers also have intake programs (i.e. graduate programs).
+
+### Web-based recruiters
 - TORII recruitment (company Andrew uses) (web-based)
 - S2M (south-yarra)
 - OPUS
 - HAYES (Very high volume though, they're hard to cut through)
+
 ### Software-based
 - accenture
 - deloitte
